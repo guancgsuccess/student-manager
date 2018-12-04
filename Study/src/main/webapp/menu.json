@@ -1,0 +1,38 @@
+[{
+  "name": "在线预览"
+,"children":
+  [{
+    "name": "day01",
+    "href":"/Study/corejava/build/day01.html",
+  },{
+    "name": "day02",
+    "href":"/Study/corejava/build/day02.html"
+  },{
+    "name": "day03",
+    "href":"/Study/corejava/build/day03.html"
+  },{
+    "name": "day04",
+    "href":"/Study/corejava/build/day04.html"
+  },{
+    "name": "day05",
+    "href":"/Study/corejava/build/day05.html"
+  }]
+},{
+  "name": "本地下载"
+,"children": [{
+    "name": "面试题目",
+    "href":"/Study/soft/面试题目.zip"
+  },{
+    "name": "笔记",
+    "href":"/Study/code/note.zip"
+  },{
+    "name": "工程代码",
+    "href":"/Study/code/CoreJava.zip"
+  },{
+    "name": "前端",
+    "href":"/Study/soft/web.zip"
+  },{
+    "name": "Java核心卷",
+    "href":"/Study/soft/Java核心卷.zip"
+  }]
+}]
